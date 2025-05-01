@@ -16,15 +16,10 @@ From organizing large student events to studying in Germany 🇩🇪 and solo tr
 
 ### 👩‍💻 What I’m Focused On
 - Building strong foundations in **web development** and **programming**
-- Exploring **JavaScript, UX/UI, Python, Git**, and software development best practices
+- Exploring **R, UX/UI, Python, Git**, and software development best practices
 - Preparing for **remote opportunities** in international teams 🌐
 
 ---
-
-### 💼 What I’m Looking For
-
-> 🔍 Open to **remote internships, part-time roles, or junior positions** in tech companies based in the **US or Europe**
-
 What I value:
 - Remote-first teams with async collaboration
 - Growth-oriented environments with mentorship
@@ -32,16 +27,14 @@ What I value:
 
 ---
 
-### 🚀 Projects
-- 💡 *Coming soon:* Personal Portfolio Website
-- 📁 Programming Challenges & College Notes (Python, R, Algorithms)
+- 🚀 Projects in Programming Challenges & College Notes (Python, R, Algorithms)
 
 ---
 
 ### 🛠️ Skills & Tools
 - **Languages**: Python, R  
 - **Tools**: Git, GitHub, Figma  
-- **Currently learning**: UX/UI Design, JavaScript  
+- **Currently learning**: UX/UI Design, R, Python  
 
 ---
 
