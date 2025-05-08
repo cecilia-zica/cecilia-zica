@@ -33,8 +33,8 @@ What I value:
 
 ### 🛠️ Skills & Tools
 - **Languages**: Python, R  
-- **Tools**: Git, GitHub, Figma  
-- **Currently learning**: UX/UI Design, R, Python  
+- **Tools**: Git, GitHub
+- **Currently learning**: R, Python  
 
 ---
 
