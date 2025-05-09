@@ -16,8 +16,8 @@ From organizing large student events to studying in Germany 🇩🇪 and solo tr
 
 ### 👩‍💻 What I’m Focused On
 - Building strong foundations in **web development** and **programming**
-- Exploring **R, UX/UI, Python, Git**, and software development best practices
-- Preparing for **remote opportunities** in international teams 🌐
+- Exploring **R, Python, Git**, and software development best practices
+- Preparing for **remote opportunities** in international teams and my first internship 🌐
 
 ---
 What I value:
@@ -49,7 +49,7 @@ What I value:
 
 ### 🎖️ A Few Fun Facts
 - 🏆 Winner of 15+ awards for leadership, sports, and team spirit 
-- 👟 Led sports events for over 1,000 students — organizing teams, choreography, logistics  
+- 👟 Led classes in sports events for over 1,000 students — organizing teams, choreography, logistics  
 - 🎓 Volunteer mentor at student retreats with hundreds of participants  
 - 💬 Believer in empathy as a core strength — especially in remote teams  
 
