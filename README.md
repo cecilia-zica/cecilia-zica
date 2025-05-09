@@ -1,4 +1,4 @@
-# Hi, I'm Cecília! 👩‍💻🌍
+# Hi, I'm Cecilia! 👩‍💻🌍
 
 > *"Driven by curiosity, inspired by people, and powered by code."*
 
@@ -10,14 +10,14 @@ I'm a second-semester **Information Systems student at UFSC (Brazil)** with a un
 
 🧠 I see technology as a bridge — between logic and creativity, cultures and people, ideas and impact.
 
-From organizing large student events to studying in Germany 🇩🇪 and solo traveling across Europe, I’ve learned to navigate challenges, communicate across cultures, and thrive in diverse environments. I bring not just technical skills, but a global mindset and a deep passion for learning.
+From organizing classes in large student events to studying in Germany 🇩🇪 and solo traveling across Europe, I’ve learned to navigate challenges, communicate across cultures, and thrive in diverse environments. I bring not just technical skills, but a global mindset and a deep passion for learning.
 
 ---
 
 ### 👩‍💻 What I’m Focused On
-- Building strong foundations in **web development** and **programming**
-- Exploring **R, Python, Git**, and software development best practices
-- Preparing for **remote opportunities** in international teams and my first internship 🌐
+- Strengthening my foundations in **programming, web development**, and **data analysis**  
+- Practicing with **Python, R**, and version control (**Git/GitHub**)  
+- Preparing for opportunities — **remote or in-person** — where I can grow, contribute, and collaborate in diverse teams 🌐
 
 ---
 What I value:
