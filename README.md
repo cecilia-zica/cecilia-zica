@@ -2,7 +2,7 @@
 
 Welcome to my little corner of GitHub! I'm an **Information Systems student** at UFSC, passionate about data, languages, and the power of technology to connect people and ideas.
 
-Right now, I'm diving deep into the world of **data analysis** and **software development**. My journey goes beyond the code: I've led the development of an [award-winning startup], [lived in Germany], and I love transforming raw data into clear, actionable insights. I see programming as a universal language, capable of building solutions that truly matter.
+Right now, I'm diving deep into the world of **data analysis** and **software development**. My journey goes beyond the code: I've led the development of an award-winning startup, lived in Germany, and I love transforming raw data into clear, actionable insights. I see programming as a universal language, capable of building solutions that truly matter.
 
 * 📚 Currently pursuing a Bachelor's in **Information Systems** at the Federal University of Santa Catarina (UFSC).
 * 💡 Co-developer of a university startup that won **3rd place** in an innovation competition.
