@@ -7,7 +7,7 @@ Right now, I'm diving deep into the world of **data analysis** and **software de
 * 📚 Currently pursuing a Bachelor's in **Information Systems** at the Federal University of Santa Catarina (UFSC).
 * 💡 Co-developer of a university startup that won **3rd place** in an innovation competition.
 * 📊 Experience with hands-on **data analysis and visualization projects** using R and Python.
-* 🌍 Fluent in English, with international experience in [Germany] and [France], and a great passion for intercultural communication.
+* 🌍 Fluent in English, with international experience in Germany and France, and a great passion for intercultural communication.
 
 ---
 
@@ -23,12 +23,12 @@ Here are a few projects I'm proud to have worked on:
 * **Streaming Data Analysis with R**
     * Analyzed a dataset on streaming platform consumption, using R to extract insights.
     * Used packages like **`dplyr`** and **`ggplot2`** to create data visualizations that tell a story.
-    * 🔗 *[Link to Project on GitHub]*
+    * 🔗 *[https://github.com/cecilia-zica/analise-streaming.git]*
 
 * **Oscar Voting System with Python**
     * Developed a Python application that simulates the entire Academy Awards voting process.
     * I implemented concepts of **Object-Oriented Programming (OOP)** and **MVC architecture** to register films, manage votes, and calculate the results for each category.
-    * 🔗 *[Link to Project on GitHub]*
+    * 🔗 *[https://github.com/joaopaulodecker/VotacaoOscar.git]*
 
 ---
 
