@@ -45,9 +45,9 @@ Here are a few projects I'm proud to have worked on:
 
 I believe communication is the key to everything. Besides Portuguese, I also speak:
 
-* [cite_start]🇺🇸 **Advanced English:** Multi-year training and practical experience, equivalent to B2+ on the CEFR scale.
-* [cite_start]🇩🇪 **Intermediate German:** Proven with a B1.1 certificate from the Goethe-Institut and a full academic year abroad in Berlin.
-* [cite_start]🇫🇷 **Basic French:** Acquired during an intensive immersion course in Paris focused on oral communication.
+* 🇺🇸 **Advanced English:** Multi-year training and practical experience, equivalent to B2+ on the CEFR scale.
+* 🇩🇪 **Intermediate German:** Proven with a B1.1 certificate from the Goethe-Institut and a full academic year abroad in Berlin.
+* 🇫🇷 **Basic French:** Acquired during an intensive immersion course in Paris focused on oral communication.
 
 ---
 
@@ -55,5 +55,5 @@ I believe communication is the key to everything. Besides Portuguese, I also spe
 
 I would love to exchange ideas, collaborate on projects, or just chat about technology and innovation. You can find me here:
 
-* [cite_start]**LinkedIn:** [www.linkedin.com/in/cecilia-zica-camargo]
-* [cite_start]**Email:** zicacamargocecilia@gmail.com 
+* **LinkedIn:** [www.linkedin.com/in/cecilia-zica-camargo]
+* **Email:** zicacamargocecilia@gmail.com 
