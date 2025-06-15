@@ -17,7 +17,7 @@ Here are a few projects I'm proud to have worked on:
 
 * **Partiu! – A Social Travel Platform**
     * 🏆 **3rd Place Winner at the UFSC Innovation Competition**.
-    * I led the project's development, from **market research** and **competitor analysis** to creating the MVP and delivering the final pitch to a panel of experts.
+    * I co-developed the project's, from **market research** and **competitor analysis** to creating the MVP and elaborating the final pitch to a panel of experts.
     * *Technologies/Concepts: Business Modeling, Prototyping, Data Analysis, Pitching*.
 
 * **Streaming Data Analysis with R**
@@ -35,9 +35,9 @@ Here are a few projects I'm proud to have worked on:
 ### 🛠️ My Tools & Skills
 
 * **Programming Languages:** Python, R.
-* **Tools:** Git, RStudio, PyCharm, Intermediate Excel.
+* **Tools:** Git, RStudio, PyCharm, basic Excel.
 * **Concepts:** Statistical Analysis, Data Science, Data Visualization, Programming Logic, Object-Oriented Programming (OOP).
-* **What I'm excited to learn next:** Power BI, Google Looker Studio, SQL, and deepening my knowledge of CRMs like Hubspot and Pipedrive.
+* **What I'm excited to learn next:** Power BI, Google Looker Studio, SQL, and deepening my knowledge of CRMs.
 
 ---
 
