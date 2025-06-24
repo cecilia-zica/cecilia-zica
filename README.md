@@ -37,7 +37,7 @@ Here are a few projects I'm proud to have worked on:
 * **Programming Languages:** Python, R.
 * **Tools:** Git, RStudio, PyCharm, basic Excel.
 * **Concepts:** Statistical Analysis, Data Science, Data Visualization, Programming Logic, Object-Oriented Programming (OOP).
-* **What I'm excited to learn next:** Power BI, Google Looker Studio, SQL, and deepening my knowledge of CRMs.
+* **What I'm excited to learn next:** Power BI, Google Looker Studio, SQL, CRMs, data security...
 
 ---
 
