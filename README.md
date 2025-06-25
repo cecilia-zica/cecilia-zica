@@ -17,8 +17,8 @@ Here are a few projects I'm proud to have worked on:
 
 * **Partiu! – A Social Travel Platform**
     * 🏆 **3rd Place Winner at the UFSC Innovation Competition**.
-    * I co-developed the project's, from **market research** and **competitor analysis** to creating the MVP and elaborating the final pitch to a panel of experts.
-    * *Technologies/Concepts: Business Modeling, Prototyping, Data Analysis, Pitching*.
+    * I co-developed the project, from market research and competitor analysis to creating the MVP with my team and presenting it to a panel of experts.
+    * *Technologies/Concepts: Business Modeling, Prototyping, Data Analysis.
 
 * **Streaming Data Analysis with R**
     * Analyzed a dataset on streaming platform consumption, using R to extract insights.
@@ -49,7 +49,7 @@ Here are a few projects I'm proud to have worked on:
 
 ### 🌍 Languages & Cultures
 
-I believe communication is the key to everything. Besides Portuguese, I also speak:
+Communication is the key to everything. Besides Portuguese, I also speak:
 
 * 🇺🇸 **Advanced English:** Multi-year training and practical experience, equivalent to B2+ on the CEFR scale.
 * 🇩🇪 **Intermediate German:** Proven with a B1.1 certificate from the Goethe-Institut and a full academic year abroad in Berlin.
