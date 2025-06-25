@@ -29,6 +29,12 @@ Here are a few projects I'm proud to have worked on:
     * Developed a Python application that simulates the entire Academy Awards voting process.
     * I implemented concepts of **Object-Oriented Programming (OOP)** and **MVC architecture** to register films, manage votes, and calculate the results for each category.
     * 🔗 *[https://github.com/joaopaulodecker/VotacaoOscar.git]*
+ 
+* **Python Password Manager**
+    * Developed a secure local password manager using Python and the Tkinter library for the graphical interface.
+    * The application is protected by a master password, which is stored securely using a SHA-256 hash. It allows you to generate strong passwords, save credentials for multiple accounts, and view them securely.
+    * *Technologies/Concepts: Python, Tkinter, Hashing, JSON, Object-Oriented Programming (OOP).*
+    * 🔗 *[https://github.com/cecilia-zica/password-manager.git](https://github.com/cecilia-zica/password-manager.git)*
 
 ---
 
@@ -37,7 +43,7 @@ Here are a few projects I'm proud to have worked on:
 * **Programming Languages:** Python, R.
 * **Tools:** Git, RStudio, PyCharm, basic Excel.
 * **Concepts:** Statistical Analysis, Data Science, Data Visualization, Programming Logic, Object-Oriented Programming (OOP).
-* **What I'm excited to learn next:** Power BI, Google Looker Studio, SQL, CRMs, data security...
+* **What I'm excited to learn next:** Power BI, Google Looker Studio, SQL, CRMs, Data security...
 
 ---
 
