@@ -59,10 +59,6 @@ Here's a bit about what I know and what I'm learning:
 
 ---
 
-* **Excited to learn:** French/Spanish, Data Science, Web Development, Statistics...
-
----
-
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=cecilia-zica&show_icons=true&locale=pt-br&theme=dracula&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub da Cecília" />
   <br/>
