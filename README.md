@@ -46,8 +46,6 @@ Here's a bit about what I know and what I'm learning:
 <div align="center">
   <img src="img/python.svg" alt="Python" height="40"/>
   <img src="img/pandas.svg" alt="Pandas" height="40"/>
-  <img src="img/html5.svg" alt="HTML5" height="40"/>
-  <img src="img/css.svg" alt="CSS" height="40"/>
   <img src="img/jss.svg" alt="JavaScript" height="40"/>
   <img src="img/json.svg" alt="JSON" height="40"/>
   <img src="img/r.svg" alt="Linguagem R" height="40"/>
