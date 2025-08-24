@@ -29,7 +29,6 @@ Always learning new languages and cultures! Curious about:
 <img src="img/germany.png" alt="Bandeira da Alemanha" height="30"/>
 <img src="img/france.png" alt="Bandeira da França" height="30"/>
 <img src="img/english.png" alt="Bandeira do Reino Unido" height="30"/>
-<img src="img/spain.png" alt="Bandeira da Espanha" height="30"/>
 
 ---
 
